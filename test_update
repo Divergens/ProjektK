@@ -1,3 +1,7 @@
 test update
 
+<<<<<<< HEAD
 die zweite
+=======
+die zweite blabla
+>>>>>>> origin/fridis-branch
